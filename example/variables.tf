@@ -8,7 +8,3 @@ variable "key_name" {
   type        = "string"
 }
 
-variable "key_fingerprint" {
-  description = "The MD5 public key fingerprint (e.g. `e1:70:69:69:84:01:76`)"
-  type        = "string"
-}
