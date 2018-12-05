@@ -7,4 +7,3 @@ variable "key_name" {
   description = "Name  (e.g. `it-admin` or `devops`)"
   type        = "string"
 }
-
